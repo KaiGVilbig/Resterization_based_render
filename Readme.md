@@ -1,4 +1,7 @@
-sw92057, Kai Vilbig, cheesecake, 435, Computer Science
 
-To build and run default file, use command: make
-To build and run other .nff file, change the .nff file in the make file's run command
+
+This Raytracer uses an external library: Eigen
+
+git clone https://gitlab.com/libeigen/eigen.git
+
+To build and run, use command: make
